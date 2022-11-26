@@ -1,1 +1,1 @@
-# YT-DjangoProject-Iris-App
+# Django - ML App
